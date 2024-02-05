@@ -1,7 +1,7 @@
 # html-css-js-project-1
 
-## cardMatch Game 
-A game built using Js, css, and html 
+## Word Counter
+A broweser based word counter using HTML, Javascript, and CSS
 
 ### Wireframe 
 
